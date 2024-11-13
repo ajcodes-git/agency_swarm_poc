@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+.VENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+# Usually these are files generated after running PyInstaller to bundle your Python app.
+dist/
+build/
+*.spec
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+.hypothesis/
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.log
+pip-log.txt
+pytest-debug.log
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Caches and logs
+*.log
+
+# dotenv
+.env
+.env.*
+
+# IDE and editor directories
+.idea/
+.vscode/
+*.swp
+
+# Distribution / packaging
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+*.whl
+*.manifest
+*.spec
+
+# The settings file created by agent_swarm
+settings.json

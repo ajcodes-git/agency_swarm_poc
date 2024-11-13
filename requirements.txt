@@ -1,0 +1,6 @@
+agency-swarm==0.2.2
+PyYAML==6.0.1
+groq
+matplotlib
+seaborn
+astra_assistants
